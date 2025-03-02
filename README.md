@@ -1,9 +1,9 @@
 # GTA-V
 ## jogo
 
-! 🤟
+! 🚲
 
-[<img src="." alt="gif da tela do projeto">]
+[<img src="./Vídeo sem título ‐ Feito com o Clipchamp.gif" alt="gif da tela do projeto">]
 
 ## tecnologias utilizadas
 
